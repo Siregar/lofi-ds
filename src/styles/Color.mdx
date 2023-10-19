@@ -1,0 +1,18 @@
+import { Meta, ColorPalette, ColorItem } from '@storybook/blocks';
+import tokens from '../theme';
+
+<Meta title="Style guide/Color" />
+
+# Color
+
+<ColorPalette>
+  <ColorItem
+    title="White / Black"
+    colors={{ White: tokens.colors.white, Black: tokens.colors.black }}
+  />
+  <ColorItem title="Neutral" colors={tokens.colors['neutral']} />
+  <ColorItem title="Info" colors={tokens.colors['info']} />
+  <ColorItem title="Success" colors={tokens.colors['success']} />
+  <ColorItem title="Warning" colors={tokens.colors['warning']} />
+  <ColorItem title="Danger" colors={tokens.colors['danger']} />
+</ColorPalette>
