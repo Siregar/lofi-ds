@@ -1,0 +1,3 @@
+import{U as r}from"./UserMenu-vPrcQzW1.js";import"./jsx-runtime-D_zvdyIk.js";import"./Dropdown-lzfVbiuM.js";import"./CaretDown-DkHk6BOk.js";import"./Text-9wmx06Py.js";import"./index-DutoEiXV.js";import"./bundle-mjs-D6B6e0vX.js";import"./User-D3rec8TP.js";const c={component:r,parameters:{design:{type:"figma",url:"https://www.figma.com/file/uNfItH7AROAE9pf8RVHvtc/WAD-Spotify-Demo?type=design&node-id=1403-4073&mode=design&t=2wCJKB0RZhQTeUPc-4"}}},e={args:{}};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`{
+  args: {}
+}`,...e.parameters?.docs?.source}}};const d=["Desktop"];export{e as Desktop,d as __namedExportsOrder,c as default};

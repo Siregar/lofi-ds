@@ -1,0 +1,3 @@
+import{j as o}from"./jsx-runtime-D_zvdyIk.js";import{P as t}from"./PlaybackControl-JI1d2kBb.js";import"./CaretRight-DpBg4uPu.js";import"./Diamond-Pm18YEpo.js";import"./ProgressBar-DUeLGzOv.js";import"./bundle-mjs-D6B6e0vX.js";const c={component:t,parameters:{design:{type:"figma",url:"https://www.figma.com/file/uNfItH7AROAE9pf8RVHvtc/WAD-Spotify-Demo?type=design&node-id=1402-3921&mode=design&t=2wCJKB0RZhQTeUPc-4"}},decorators:[r=>o.jsx("div",{className:"bg-neutral-800 inline-block p-2",children:o.jsx(r,{})})]},e={args:{}};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`{
+  args: {}
+}`,...e.parameters?.docs?.source}}};const d=["Desktop"];export{e as Desktop,d as __namedExportsOrder,c as default};

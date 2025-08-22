@@ -1,4 +1,4 @@
-import type { Meta, StoryObj } from '@storybook/react';
+import type { Meta, StoryObj } from '@storybook/react-vite';
 import { MockupContainer } from '../../mockups/MockupContainer';
 import { DesktopLayout } from '../../patterns/Layouts/DesktopLayout';
 import { ScreenTitle } from '../../components/ScreenTitle/ScreenTitle';

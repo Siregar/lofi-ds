@@ -1,0 +1,3 @@
+import{V as o}from"./VolumeControl-Dz5LAoxE.js";import"./jsx-runtime-D_zvdyIk.js";import"./bundle-mjs-D6B6e0vX.js";import"./Diamond-Pm18YEpo.js";import"./ProgressBar-DUeLGzOv.js";const p={title:"components/VolumeControl",component:o,parameters:{design:{type:"figma",url:"https://www.figma.com/file/uNfItH7AROAE9pf8RVHvtc/WAD-Spotify-Demo?type=design&node-id=1402-3785&mode=design&t=2wCJKB0RZhQTeUPc-4"}}},e={args:{}};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`{
+  args: {}
+}`,...e.parameters?.docs?.source}}};const n=["Default"];export{e as Default,n as __namedExportsOrder,p as default};
