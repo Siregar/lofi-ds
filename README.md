@@ -1,10 +1,13 @@
-# spotify‑storybook
+# Spotify – Lofi Design System
 
 <img src="./public/cover.png" alt="Cover: Spotify App" width="400">
 
 A small Storybook playground replicating parts of the Spotify UI to demo component structure, theming with Tailwind, and docs via MDX.
 
-> Video walkthrough (inspiration/source): https://www.youtube.com/watch?v=TmZxnZDpjaw
+## Ressources
+
+- [Conference talk on YouTube](https://www.youtube.com/watch?v=TmZxnZDpjaw)
+- [Figma file](https://www.figma.com/design/uNfItH7AROAE9pf8RVHvtc/Spotify-%E2%80%93-Lofi-Design-System?m=auto&t=ttYvWlzgZcP8HTkR-6)
 
 ## Tech stack
 
