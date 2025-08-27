@@ -1,7 +1,8 @@
 {
-  "name": "wad-example",
+  "name": "lofi-ds",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
+  "author": "Michael Siregar (hi@mischa.dev)",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -48,5 +49,13 @@
     "extends": [
       "plugin:storybook/recommended"
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Siregar/lofi-ds.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Siregar/lofi-ds/issues"
+  },
+  "homepage": "https://github.com/Siregar/lofi-ds#readme"
 }

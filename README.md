@@ -1,5 +1,7 @@
 # Lo-Fi Design System
 
+[GitHub repository: Siregar/lofi-ds](https://github.com/Siregar/lofi-ds)
+
 <img src="./public/cover.png" alt="Cover: Spotify App" width="400">
 
 A small Storybook playground replicating parts of the Spotify UI to demo component structure, theming with Tailwind, and docs via MDX.
