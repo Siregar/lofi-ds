@@ -1,4 +1,4 @@
-# Spotify – Lofi Design System
+# Lo-Fi Design System
 
 <img src="./public/cover.png" alt="Cover: Spotify App" width="400">
 
